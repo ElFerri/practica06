@@ -3,6 +3,10 @@ title: Home
 layout: home
 ---
 
+Soy Ferran Beltran, y esto sera mi porfolio
+
+Aquí ire indicando, explicando, contando que es lo que hemos aprendido cada semana, así teniendo un resumen de cada semana en cada signatura, y ir guardando en este portfolio todo lo aprendido durante el año.
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
